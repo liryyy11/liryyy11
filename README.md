@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liryyy11
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning HTML,CSS, JavaScript, SQL,Java,C++
+- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, Java, C++, Laravel, Python
 - 💞️ I’m looking to collaborate on problems and solutions with my personal projects
 - 📫 How to reach me lirybonterangpi11@gmail.com
 
